@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/olusolaDav/countries/static/css/main.da9cba7e.css",
+    "main.js": "/olusolaDav/countries/static/js/main.cb148144.js",
+    "static/js/787.28cb0dcd.chunk.js": "/olusolaDav/countries/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/olusolaDav/countries/index.html",
+    "main.da9cba7e.css.map": "/olusolaDav/countries/static/css/main.da9cba7e.css.map",
+    "main.cb148144.js.map": "/olusolaDav/countries/static/js/main.cb148144.js.map",
+    "787.28cb0dcd.chunk.js.map": "/olusolaDav/countries/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9cba7e.css",
+    "static/js/main.cb148144.js"
+  ]
+}
