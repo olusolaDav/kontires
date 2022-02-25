@@ -1,0 +1,18 @@
+.search-box {
+  margin: auto;
+  
+  
+}
+
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 30rem;
+    margin: auto;
+    line-height: 30px;
+    margin: 40px;
+    margin-bottom: 30px;
+  }
+  
