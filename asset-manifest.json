@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kontires/static/css/main.da9cba7e.css",
+    "main.js": "/kontires/static/js/main.80725b8f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kontires/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kontires/index.html",
+    "main.da9cba7e.css.map": "/kontires/static/css/main.da9cba7e.css.map",
+    "main.80725b8f.js.map": "/kontires/static/js/main.80725b8f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kontires/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9cba7e.css",
+    "static/js/main.80725b8f.js"
+  ]
+}
